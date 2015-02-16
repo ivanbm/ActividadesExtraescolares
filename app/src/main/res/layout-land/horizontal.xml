@@ -151,7 +151,7 @@
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/etFechaF"
+            android:id="@+id/etHoraF"
             android:hint="hh:mm"
             android:layout_weight="0.5" />
     </LinearLayout>
